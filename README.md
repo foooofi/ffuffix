@@ -1,3 +1,3 @@
 # FFUFFIX
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ffuffix&color=blue)
